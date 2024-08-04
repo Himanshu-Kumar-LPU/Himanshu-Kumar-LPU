@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Himanshu Kumar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right"alt="coding" Width="400" src="gif.gif"
+"![image](https://github.com/user-attachments/assets/1c7063bb-ebc3-463b-a2f2-9431e828e3ae)
+"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu-kumar-lpu&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu-kumar-lpu" /> </p>
 
