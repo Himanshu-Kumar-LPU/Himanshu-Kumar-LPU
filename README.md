@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Himanshu Kumar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right"alt="coding" Width="400" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1675632099977/cf8abf9f-f80f-4e2f-936f-d961910b99f6.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm"
+<img align="right"alt="coding" Width="400" src="gif.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu-kumar-lpu&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu-kumar-lpu" /> </p>
 
