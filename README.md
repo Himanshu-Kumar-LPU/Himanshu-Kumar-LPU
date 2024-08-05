@@ -1,7 +1,9 @@
+![image](https://github.com/user-attachments/assets/d80ec738-7a26-4753-a555-97161fb8b476)
+
 <h1 align="center">Hi 👋, I'm Himanshu Kumar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-"![image](https://github.com/user-attachments/assets/1c7063bb-ebc3-463b-a2f2-9431e828e3ae)
+_____________________________________________________________________________"![image](https://github.com/user-attachments/assets/1c7063bb-ebc3-463b-a2f2-9431e828e3ae)
 "
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu-kumar-lpu&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu-kumar-lpu" /> </p>
